@@ -12,9 +12,11 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 I don't collect any data
 
 **Log Data**
+
 I dont log any data.
 
 **Cookies**
+
 There's no cookies
 
 **Service Providers**
