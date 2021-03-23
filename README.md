@@ -9,6 +9,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Pokechecked unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
+
 I don't collect any data
 
 **Log Data**
